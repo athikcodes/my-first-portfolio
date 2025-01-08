@@ -164,8 +164,43 @@ main section{
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
     margin-top: 30px;
 }
+/* build resume */
+.resume-container{
+    display: flex;
+    gap: 24px;
+
+    .experience-description{
+        color: #757575;
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .experience-sub-title{
+        color:rgb(117, 117, 117);
+        font-weight: 600;
+        font-size: 20px;
+    }
+    .experience-title{
+        color: rgb(71, 71, 71);
+        font-size: 25px;
+        font-weight: 700;
+      
+    }
+   .Download-cv{
+    text-align: center;
+    background-color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+
+   }
+.last-btn{
+    background-color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+}
 
 
+
+ 
 
 
 
