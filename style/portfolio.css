@@ -186,6 +186,51 @@ main section{
         font-weight: 700;
       
     }
+    footer{
+        padding: 130px 230px;
+        display: flex;
+        gap: 117px;
+
+    }
+    .section-two .section-four{
+        font-size: 35px;
+        color: rgb(24, 24, 24);
+        font-weight: 700;
+    }
+    .section-three{
+            color: rgb(71, 71, 71);
+            font-size: 16px;
+            font-weight: 400;
+
+
+
+    }
+    footer input[type="text"],footer input[type="email"],footer textarea{
+            border-radius: 5px;
+            background: rgb(255, 255, 255);
+            width: 461px;
+            height: 64px;
+            font-size: 16px;
+            display: block;
+            margin-bottom: 24px;
+            padding: 10px 20px;
+            border: none;
+    }
+  
+    
+    .footer-column{
+        width: 50%;
+    }
+    .textar{
+        padding: 20px;
+    }
+    .form-img{
+        margin-right: 13px;
+        font-size: 40px;
+    }
+
+
+
   
  
 
