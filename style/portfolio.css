@@ -168,6 +168,7 @@ main section{
 .resume-container{
     display: flex;
     gap: 24px;
+}
 
     .experience-description{
         color: #757575;
@@ -185,6 +186,8 @@ main section{
         font-weight: 700;
       
     }
+  
+ 
 
 
  
